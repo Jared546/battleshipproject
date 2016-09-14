@@ -2,6 +2,8 @@ body {
     margin: 60px auto;
     width: 70%;
     max-width: 950px;
+    background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi44bGpw4rPAhXFPT4KHb-_AEIQjRwIBw&url=http%3A%2F%2Ffreeshipplans.com%2Fcategories%2Ffree-model-ship-plans%2Fbattle-ship-plans%2F&psig=AFQjCNH9SApR_QMEgPLJ453m2BCT0sbcbw&ust=1473793644070839");
+    background-size: 1750px;
 }
 
 h1 {
